@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo7306
-Fork on GitHub1430
 <h1 align="center">Hi 👋, I'm icarus</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
